@@ -11,3 +11,5 @@ git status: Hangi dosyaların değiştiğini, hangilerinin staging'de olduğunu 
 git add: Değişiklikleri bir sonraki commit için staging alanına alır.
 git commit -m "mesaj": Staging'deki değişiklikleri mesajıyla birlikte kalıcı olarak kaydeder.
 git log --oneline: Commit geçmişini her commit tek satır olacak şekilde listeler.arakter basina 1-4 byte kullaniyor.
+
+git branch: Mevcut branch'leri listeler, aktif olanın yanına * koyar.
