@@ -1,0 +1,6 @@
+
+1. wc - Metin dosyasındaki satır, kelime ve karakter sayısını sayar.
+2. sort - Metin satırlarını alfabetik veya sayısal olarak sıralar.
+3. uniq - Peş peşe gelen tekrarlanan satırları tekilleştirir.
+4. cut - Dosyadaki satırları belirli bir ayırıcıya göre bölüp istenen sütunları çeker.
+5. sed - Metin akışı üzerinde arama ve değiştirme işlemleri yapan akış düzenleyicisidir.
