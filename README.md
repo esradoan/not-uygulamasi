@@ -1,4 +1,6 @@
-Introduction to computer Engineering ödevi için oluşturulmuş bit not defteridir 
+Introduction to computer Engineering ödevi için oluşturulmuş bit not defteridir
 
 
+
+Geliştirici: esra sultan dogan (feature versiyonu)
 
