@@ -4,3 +4,10 @@
 3. uniq - Peş peşe gelen tekrarlanan satırları tekilleştirir.
 4. cut - Dosyadaki satırları belirli bir ayırıcıya göre bölüp istenen sütunları çeker.
 5. sed - Metin akışı üzerinde arama ve değiştirme işlemleri yapan akış düzenleyicisidir.
+
+Git komutlari
+git init: Klasörü Git deposu haline getirir.
+git status: Hangi dosyaların değiştiğini, hangilerinin staging'de olduğunu gösterir.
+git add: Değişiklikleri bir sonraki commit için staging alanına alır.
+git commit -m "mesaj": Staging'deki değişiklikleri mesajıyla birlikte kalıcı olarak kaydeder.
+git log --oneline: Commit geçmişini her commit tek satır olacak şekilde listeler.arakter basina 1-4 byte kullaniyor.
